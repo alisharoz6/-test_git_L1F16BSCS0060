@@ -1,1 +1,3 @@
 "my name is ali"
+email=ali.sharoz@ucp.edu.pk
+faculty=foit
